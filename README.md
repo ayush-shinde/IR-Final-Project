@@ -2,7 +2,7 @@
 
 ![Social Media and Disaster Management](https://github.com/ayush-shinde/IR-Final-Project/blob/main/img/website_img.png?raw=true)
 
-<img src="https://github.com/ayush-shinde/IR-Final-Project/blob/main/img/website_img.png?raw=true" width="500">
+<img src="https://github.com/ayush-shinde/IR-Final-Project/blob/main/img/website_img.png?raw=true" width="1800">
 
 
 ### Introduction
