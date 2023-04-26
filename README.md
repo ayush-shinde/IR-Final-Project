@@ -1,6 +1,6 @@
 # Social Media Information Response for Natural Disaster
 
-![Alt Text]([image_url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FIndiandisastersocialmedia%2F&psig=AOvVaw0pig3PQzTTQriLUNC3F1lZ&ust=1682582434461000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiNnpaKx_4CFQAAAAAdAAAAABAE))
+![Social Media and Disaster Management]([image_url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FIndiandisastersocialmedia%2F&psig=AOvVaw0pig3PQzTTQriLUNC3F1lZ&ust=1682582434461000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiNnpaKx_4CFQAAAAAdAAAAABAE))
 
 ### Introduction
 This project aims to analyze social media data, specifically from Twitter, to understand user sentiment during natural disasters and evaluate the effectiveness of various machine learning models in classifying this data. The goal is to improve disaster response efforts by leveraging the power of social media information sharing.
