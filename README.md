@@ -3,13 +3,16 @@
 ![Social Media and Disaster Management]([image_url](https://pin.it/58cWQ5w))
 
 ### Introduction
-This project aims to analyze social media data, specifically from Twitter, to understand user sentiment during natural disasters and evaluate the effectiveness of various machine learning models in classifying this data. The goal is to improve disaster response efforts by leveraging the power of social media information sharing.
+The increasing prevalence of natural disasters worldwide has highlighted the importance of effective disaster response strategies. Social media platforms, such as Twitter, have emerged as crucial channels for communication and information exchange during such events. This project seeks to explore the potential of leveraging machine learning models and natural language processing techniques to analyze social media data for improved disaster response and management.
 
 ### About Dataset
-The dataset used in this project is the Natural Hazards Twitter Dataset which contains tweets related to various natural disasters. The dataset is publicly available on GitHub and comprises tweets that were collected during significant natural disaster events, such as hurricanes, earthquakes, and wildfires.
+The dataset used in this project is the Natural Hazards Twitter Dataset which contains tweets related to various natural disasters. The dataset is publicly available on GitHub and comprises tweets that were collected during significant natural disaster events, such as hurricanes, earthquakes, and wildfires. The Dataset contains not only the text of the tweets but also metadata such as timestamp, geolocation, and user profile information. This additional information can be beneficial for understanding the context and impact of the disaster, as well as for identifying the most affected areas or urgent needs.
 
 ### Data Preprocessing
- 
+
+* Handling missing data: We filled in or removed missing data points to avoid inconsistencies during the analysis.
+* Feature extraction: We identified and extracted relevant features from the metadata, such as geolocation and timestamp, for possible integration into the machine learning models. 
+
 To ensure accurate analysis and model implementation, we carried out data preprocessing and cleaning tasks. The following data cleaning techniques were applied to the dataset:
 
 1. Removing irrelevant content: We removed tweets that were not related to natural disasters.
