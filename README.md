@@ -1,5 +1,5 @@
 # IR-Final-Project
-Required Libaraies
+Required Libaries
 1. transformers
 2. sentence_transformers
 3. tqdm
