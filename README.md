@@ -42,6 +42,7 @@ We assessed the performance and accuracy of each model in classifying tweet sent
 #### Results
 Our analysis results indicate that some models, such as BERT and RoBERTa, achieved high accuracy in sentiment classification, while others, like KNN and Decision Tree, had lower accuracy. Overall, the study showcases the potential of using sophisticated natural language processing techniques and machine learning models to enhance disaster response initiatives through social media analysis.
 
+![Model Performances](Downloads/model_performance)
 #### Conclusion
 This project demonstrates that social media data, particularly from Twitter, can be an invaluable asset for understanding user sentiment during natural disasters and guiding disaster response initiatives. By analyzing this data using various machine learning models, we can gain insights into which models excel in sentiment classification and make more informed decisions regarding disaster relief approaches.
 
