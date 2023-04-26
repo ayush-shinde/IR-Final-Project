@@ -1,21 +1,40 @@
 # Social Media Information Response for Natural Disaster
 
+![Alt Text]([image_url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FIndiandisastersocialmedia%2F&psig=AOvVaw0pig3PQzTTQriLUNC3F1lZ&ust=1682582434461000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiNnpaKx_4CFQAAAAAdAAAAABAE))
+
 ### Introduction
 This project aims to analyze social media data, specifically from Twitter, to understand user sentiment during natural disasters and evaluate the effectiveness of various machine learning models in classifying this data. The goal is to improve disaster response efforts by leveraging the power of social media information sharing.
 
 ### About Dataset
 The dataset used in this project is the Natural Hazards Twitter Dataset which contains tweets related to various natural disasters. The dataset is publicly available on GitHub and comprises tweets that were collected during significant natural disaster events, such as hurricanes, earthquakes, and wildfires.
 
+### Data Preprocessing
+ 
+To ensure accurate analysis and model implementation, we carried out data preprocessing and cleaning tasks. The following data cleaning techniques were applied to the dataset:
+/*
+1. Removing irrelevant content: We removed tweets that were not related to natural disasters.
+2. Text normalization: We converted all text to lowercase and removed special characters, punctuation marks, and numbers.
+3. Removing URLs and mentions: We removed any URLs and mentions present in the tweets.
+4. Tokenization: We tokenized the text, splitting it into individual words.
+5. Stopword removal: We removed common stopwords that don't provide significant value for sentiment analysis.
+6. Lemmatization: We lemmatized the words, reducing them to their base forms.
+*/
+
 ### Analysis
 #### Models Used
-In this project, we used the following machine learning models to analyze and classify the sentiment of tweets related to natural disasters:
-BERT
-DeBERTa
-RoBERTa
-K-Nearest Neighbors (KNN)
-Decision Tree
-Multiple Neutral Network (MNN)
-Support Vector Machine (SVM)
+We used the following machine learning models in this project to examine and classify the sentiment of tweets associated with natural disasters:
+
+* BERT
+* DeBERTa
+* RoBERTa
+* K-Nearest Neighbors (KNN)
+* Decision Tree
+* Multiple Neural Network (MNN)
+* Support Vector Machine (SVM)
+* FLAN-UL2
+
+#### FLAN-UL2 Implementation
+The FLAN-UL2 (Flexible Language Adapter with Universal Language 2) model is a recently developed model with promising potential in natural language understanding tasks. We implemented this model alongside the others to evaluate its effectiveness in sentiment classification. The implementation involved fine-tuning the model on the preprocessed dataset and testing its performance against the other models.
 
 #### Performance Evaluation
 We assessed the performance and accuracy of each model in classifying tweet sentiment. The findings emphasize the advantages and drawbacks of each model concerning prediction accuracy, computational time, and other relevant metrics. The analysis offers valuable insights into which models are most appropriate for this specific classification task.
