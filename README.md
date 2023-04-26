@@ -27,6 +27,7 @@ Our analysis results indicate that some models, such as BERT and RoBERTa, achiev
 This project demonstrates that social media data, particularly from Twitter, can be an invaluable asset for understanding user sentiment during natural disasters and guiding disaster response initiatives. By analyzing this data using various machine learning models, we can gain insights into which models excel in sentiment classification and make more informed decisions regarding disaster relief approaches.
 
 *About the python files*
+<br>
 Required Libaries
 1. transformers
 2. sentence_transformers
