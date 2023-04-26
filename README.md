@@ -39,6 +39,10 @@ We used the following machine learning models in this project to examine and cla
 * Support Vector Machine (SVM)
 * FLAN-UL2
 
+![RoBERTa]
+
+<img src="https://github.com/ayush-shinde/IR-Final-Project/blob/main/img/roberta.png?raw=true" width="1000">
+
 #### FLAN-UL2 Implementation
 The FLAN-UL2 (Flexible Language Adapter with Universal Language 2) model is a recently developed model with promising potential in natural language understanding tasks. We implemented this model alongside the others to evaluate its effectiveness in sentiment classification. The implementation involved fine-tuning the model on the preprocessed dataset and testing its performance against the other models.
 
