@@ -2,6 +2,9 @@
 
 ![Social Media and Disaster Management](https://github.com/ayush-shinde/IR-Final-Project/blob/main/img/website_img.png?raw=true)
 
+<img src="https://github.com/ayush-shinde/IR-Final-Project/blob/main/img/website_img.png?raw=true" width="500">
+
+
 ### Introduction
 The increasing prevalence of natural disasters worldwide has highlighted the importance of effective disaster response strategies. Social media platforms, such as Twitter, have emerged as crucial channels for communication and information exchange during such events. This project seeks to explore the potential of leveraging machine learning models and natural language processing techniques to analyze social media data for improved disaster response and management.
 
