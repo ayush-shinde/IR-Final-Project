@@ -11,14 +11,14 @@ The dataset used in this project is the Natural Hazards Twitter Dataset which co
 ### Data Preprocessing
  
 To ensure accurate analysis and model implementation, we carried out data preprocessing and cleaning tasks. The following data cleaning techniques were applied to the dataset:
-/*
+
 1. Removing irrelevant content: We removed tweets that were not related to natural disasters.
 2. Text normalization: We converted all text to lowercase and removed special characters, punctuation marks, and numbers.
 3. Removing URLs and mentions: We removed any URLs and mentions present in the tweets.
 4. Tokenization: We tokenized the text, splitting it into individual words.
 5. Stopword removal: We removed common stopwords that don't provide significant value for sentiment analysis.
 6. Lemmatization: We lemmatized the words, reducing them to their base forms.
-*/
+
 
 ### Analysis
 #### Models Used
