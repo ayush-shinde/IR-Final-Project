@@ -1,6 +1,6 @@
 # Social Media Information Response for Natural Disaster
 
-![Social Media and Disaster Management](https://github.com/ayush-shinde/IR-Final-Project/blob/main/img/dis.jpg?raw=true)
+![Social Media and Disaster Management](https://github.com/ayush-shinde/IR-Final-Project/blob/main/img/website_img.png?raw=true)
 
 ### Introduction
 The increasing prevalence of natural disasters worldwide has highlighted the importance of effective disaster response strategies. Social media platforms, such as Twitter, have emerged as crucial channels for communication and information exchange during such events. This project seeks to explore the potential of leveraging machine learning models and natural language processing techniques to analyze social media data for improved disaster response and management.
@@ -45,7 +45,7 @@ We assessed the performance and accuracy of each model in classifying tweet sent
 #### Results
 Our analysis results indicate that some models, such as BERT and RoBERTa, achieved high accuracy in sentiment classification, while others, like KNN and Decision Tree, had lower accuracy. Overall, the study showcases the potential of using sophisticated natural language processing techniques and machine learning models to enhance disaster response initiatives through social media analysis.
 
-![Model Performances](Downloads/model_performance)
+![Model Performances](https://github.com/ayush-shinde/IR-Final-Project/blob/main/img/cs547-final%20project-12.png?raw=true)
 #### Conclusion
 This project demonstrates that social media data, particularly from Twitter, can be an invaluable asset for understanding user sentiment during natural disasters and guiding disaster response initiatives. By analyzing this data using various machine learning models, we can gain insights into which models excel in sentiment classification and make more informed decisions regarding disaster relief approaches.
 
